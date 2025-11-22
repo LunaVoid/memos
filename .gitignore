@@ -20,3 +20,6 @@ dist
 
 # VSCode settings
 .vscode
+server/router/frontend/dist/index.html
+/cmd/memos
+/server/router/frontend/dist
